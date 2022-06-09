@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566331666414",
+    "project_id": "job-timer-rtyota",
+    "storage_bucket": "job-timer-rtyota.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566331666414:android:9ff35e6a9a84872aa068ff",
+        "android_client_info": {
+          "package_name": "br.com.rtyota.job_timer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566331666414-mh7op0gkqhjohbn3rs7000mlugjhirpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXjGIrqKx2ziNkik8-4pY-kHI9UIQrpeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566331666414-mh7op0gkqhjohbn3rs7000mlugjhirpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
